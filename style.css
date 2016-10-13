@@ -1,0 +1,61 @@
+html { 
+	background-image: url(imgs/background2.jpg);
+	background-size: 100%;
+} 
+
+#page {
+  margin-left:auto;
+  margin-right:auto;
+  width:100%;
+  color: #000;
+  background-image: url("imgs/background1.jpg");
+}
+
+.container {
+	width: 960px;
+	background-color: white;
+	margin: 0 auto;
+}
+
+ img {
+  	margin-left: 0px;
+ 	margin-right: 0px;
+ 	margin-top: 10%;
+ 	border: double;
+ 	border-radius: 20px;
+	margin: auto;
+	width: 50%;
+	height: 400px;
+	padding: 35px 25px 35px 25px;
+ }
+ .category {
+ 	color: black;
+ }
+.category:hover {
+	background:  #c8dae0;
+	font-weight: bolder;
+}
+
+.about {
+	padding: 50px;
+	margin: 60px;
+	font-family: times;
+	list-style-type: none;
+	border: ridge;
+	text-align: left;
+	
+		}
+
+.float-left {
+  float: left;
+  padding: 50px;
+  margin: 60px;
+  margin-left: 8%;
+  width: 10%;
+  height: 10%;
+  border: none;
+}
+
+ul {
+
+}

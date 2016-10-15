@@ -41,7 +41,8 @@ html {
 	margin: 60px;
 	font-family: times;
 	list-style-type: none;
-	border: ridge;
+	border: groove;
+	border-width:2px auto;
 	text-align: left;
 	
 		}
